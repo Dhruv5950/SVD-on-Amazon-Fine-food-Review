@@ -1,0 +1,10 @@
+Python==3
+Anaconda==3.7.0
+pandas==v0.23.1
+numpy==v1.14
+sqlite3
+matplotlib==2.2.2
+sklearn==0.19.1
+
+dataset = https://www.kaggle.com/snap/amazon-fine-food-reviews
+
